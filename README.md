@@ -6,10 +6,10 @@ Vocab basics, one-hot encodings, word embeddings.
 
 ```bash
 # 1. Download 50-dimensional GloVe vectors from Canvas (glove.6B.50d.txt)
-# and save to this directory.
+#    and save to this directory.
 
 # 2. Setup a Python 3 (I used 3.7) virtual environment using your method
-# of choice (conda, pyenv)
+#    of choice (conda, pyenv)
 
 # 3. Install requirements (torch, tqdm)
 pip3 install torchvision tqdm
